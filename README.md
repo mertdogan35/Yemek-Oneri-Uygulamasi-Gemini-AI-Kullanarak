@@ -20,7 +20,7 @@ Bu proje, Google Gemini AI teknolojisi kullanılarak geliştirilmiş bir yemek �
 git clone https://github.com/mertdogan35/yemek-oneri-use-gemini.git
 ```
 
-2. Depoyu klonlayın
+2. Bağımlılıkları yükleyin
 ```bash
 npm install
 ```
