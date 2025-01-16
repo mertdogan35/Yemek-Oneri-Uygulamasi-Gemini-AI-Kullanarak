@@ -30,6 +30,12 @@ npm install
 npm start
 ```
 
+Kurulum tamamlandıktan sonra App.jsx içerisindeki
+```bash
+const genAI = new GoogleGenerativeAI('<API-KEY>');
+```
+<API-KEY> alanını silip gemini üzerinden alınan api key'inizi yazmayı unutmayın.
+
 Lisans
 [Lisans Bilgisi Eklenecek]
 
