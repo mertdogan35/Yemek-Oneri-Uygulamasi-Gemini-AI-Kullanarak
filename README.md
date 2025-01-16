@@ -18,14 +18,17 @@ Bu proje, Google Gemini AI teknolojisi kullanılarak geliştirilmiş bir yemek �
 1. Depoyu klonlayın
 ```bash
 git clone https://github.com/mertdogan35/yemek-oneri-use-gemini.git
+```
 
 2. Depoyu klonlayın
-
+```bash
 npm install
+```
 
 3.Gerekli ortam değişkenlerini ayarlayın
-
+```bash
 npm start
+```
 
 Lisans
 [Lisans Bilgisi Eklenecek]
